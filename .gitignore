@@ -221,3 +221,5 @@ __marimo__/
 
 chroma_db/
 data_raw*/
+.env
+.ipynb_checkpoints/
