@@ -1,0 +1,7 @@
+chromadb==1.5.9
+google-genai==3.0.0
+langchain==1.4.8
+langchain-core==1.7.7
+langchain-google-genai==4.4.3
+langchain-protocol==0.0.20
+sentence-transformers==5.7.0
